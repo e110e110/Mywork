@@ -56,8 +56,6 @@ h2 { font-size: 2.2rem;
 }
 
 
-
-
 .tm-header-inner {
 	display: -webkit-flex;
 	display: -ms-flexbox;
@@ -102,12 +100,13 @@ h2 { font-size: 2.2rem;
 }
 
 .tm-home-img-container {
-	background-image: url('../img/name.svg');
+	background-image: url('../img/name.png');
 	background-size: auto;
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 500px;
 }
+
 
 .tm-iroommate-img-container { background-image: url('../img/tm-iroommate-img.jpg');	text-align: center;}
 .tm-pop-img-container { background-image: url('../img/tm-pop-img.jpg');	text-align: center;}
@@ -557,4 +556,14 @@ ul.portfolio li:hover .portfoliohover h5, ul.portfolio li:hover .portfoliohover 
 	ul.portfolio li {
 		width: 50%;
 	}
+}
+
+
+
+
+
+
+.hr-edge-weak {
+    border: 0;
+    border-top: 1px dotted #a2a9b6;
 }
