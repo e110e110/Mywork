@@ -111,8 +111,8 @@ h2 { font-size: 2.2rem;
 	display: inline-block;
 	list-style: none;
 	background: #fff;
-	border: 2px solid #cc9900;
-	color: #cc9900;
+	border: 2px solid #906E09;
+	color: #906E09;
 	padding: 10px 20px;
 	font-family: bankgothic;
 	border-radius: 30px;
@@ -263,7 +263,7 @@ h2 { font-size: 2.2rem;
 
 
 .tm-content-box {
-	max-width: 400px;
+	max-width: 600px;
 	margin-left: -10px;
 	margin-right: -10px; 
 	
