@@ -8,7 +8,8 @@ http://www.templatemo.com/tm-488-classic
 
 body {
 	color: #767676;
-	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	/*font-family: 'Open Sans', Mulish, Helvetica, Arial, sans-serif;*/
+	font-family: 'Mulish', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 	overflow-x: hidden;
@@ -114,7 +115,8 @@ h2 { font-size: 2.2rem;
 	border: 2px solid #906E09;
 	color: #906E09;
 	padding: 10px 20px;
-	font-family: bankgothic;
+	/*font-family: bankgothic;*/
+	font-family: 'Mulish', sans-serif;
 	border-radius: 30px;
 	margin: 0 3px;
 	cursor: pointer;
@@ -606,7 +608,8 @@ ul.portfoliofilter {
 	margin-bottom: 40px;
 }
 li.filter {
-	font-family: "Open Sans", Verdana, Arial, sans-serif;
+	/*font-family: "Open Sans", Verdana, Arial, sans-serif;*/
+	font-family: 'Mulish', sans-serif;
 	line-height: 1.6em;
 	color: #454544;
 	background-color: #efefef;
