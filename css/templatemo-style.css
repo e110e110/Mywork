@@ -24,6 +24,16 @@ a:focus {
 
 h2 { font-size: 2.2rem; 
 	line-height: 1.6;}
+
+
+	#Exa1 li{
+		float:left;
+		margin-right:10px;
+		margin-top:10px;
+		list-style-type: none;
+		}
+
+
 .tm-thin-font { font-weight: 300; }
 
 .container-fluid {
