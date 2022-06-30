@@ -7,11 +7,11 @@ http://www.templatemo.com/tm-488-classic
 -----------------------------*/
 
 body {
-	color: #535353;
+	color: #767676;
 	/*font-family: 'Open Sans', Mulish, Helvetica, Arial, sans-serif;*/
 	font-family: 'Mulish', sans-serif;
 	font-size: 18px;
-	font-weight: 350;
+	font-weight: 300;
 	overflow-x: hidden;
 }
 
@@ -122,8 +122,8 @@ h2 { font-size: 2.2rem;
 	display: inline-block;
 	list-style: none;
 	background: #fff;
-	border: 2px solid #131210;
-	color: #131210;
+	border: 2px solid #906E09;
+	color: #906E09;
 	padding: 10px 20px;
 	/*font-family: bankgothic;*/
 	font-family: 'Mulish', sans-serif;
@@ -197,7 +197,7 @@ h2 { font-size: 2.2rem;
 }
 
 .tm-site-name {
-	color: #131210;
+	color: #cc9900;
 	display: block;
 	font-size: 2.6rem;
 	font-weight: 400;
@@ -215,11 +215,11 @@ h2 { font-size: 2.2rem;
 .nav-link:hover,
 .nav-link:focus {
 	color: white;
-	background-color: #131210;
+	background-color: #906E09;
 
 }
 
-.tm-gold-text { color: #131210; }
+.tm-gold-text { color: #906E09; }
 
 .tm-section {
 	padding-top: 80px;
@@ -307,7 +307,7 @@ h4 {
 
 .tm-btn {
 	color: white;
-	background-color: #131210;
+	background-color: #906E09;
 	border: none;
 	border-radius: 5px;
 	display: inline-block;
@@ -316,7 +316,7 @@ h4 {
 
 .tm-btn:hover,
 .tm-btn:focus {
-	background-color: #131210;
+	background-color: #906E09;
 	color: white;
 	outline: none;
 }
@@ -528,8 +528,8 @@ p { line-height: 1.9; }
 	#tmNavbar .navbar-nav .nav-item+.nav-item { margin-left: 0; }
 	.navbar-toggler {
 		background: white;
-		border-color: #131210;
-		color: #131210;
+		border-color: #cc9900;
+		color: #cc9900;
 		display: block;
 		margin-left: auto;
 		margin-right: 0;
